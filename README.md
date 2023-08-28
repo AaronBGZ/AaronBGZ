@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AaronBGZ
+- 👀 I’m interested in the 🌍 of Big data
+- 🌱 I’m currently learning Python, Exel, Tableau, PowerBI and SQL
+- 💞️ I’m looking to collaborate on data-driven projects that leverage my growing skills in Python and data visualization tools. For example, I'm exploring how to use Python to clean and analyze large datasets, and I'm also practising creating insightful visualizations using Tableau and PowerBI.
+- 📫 How to reach me: aaron20011.ang@gmail.com
